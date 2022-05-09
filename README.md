@@ -12,6 +12,9 @@ https://user-images.githubusercontent.com/101134812/165861544-3369c2f3-2dae-4efa
 # O projeto
 É uma lista de tarefas onde você pode adicionar novas tarefas, marcá-las como já realizadas ou excluir da lista. 
 
+# Link do projeto
+https://amandabartolo.github.io/to_do_list/
+
 # Tecnologias utilizadas
 * HTML
 * CSS
